@@ -1,0 +1,17 @@
+{"scm":{
+    "1A": {"list": ["CISC121", "CISC124"], "num": 2},
+    "1B": {"list": ["CISC203", "CISC204", "CISC221", "CISC223", "CISC235"], "num": 5},
+    "1C": {"list": ["CISC322,", "CISC326"], "num": 1},
+    "1D": {"list": ["CISC324,", "CISC360", "CISC365"], "num": 3},
+    "1E": {"list": ["CISC497"], "num": 1},
+    "1F": {"list": ["CISC495", "CISC499", "CISC500"], "num": 1},
+    "1G": {"list": [{"name": "1G_subplan_1", "subplan": {"PLAN_A": {"list": ["CISC102", "MATH111"], "num": 2}}},{"name": "1G_subplan_2", "subplan": {"PLAN_B": {"list": ["MATH110"], "num": 1}}}],
+               "num": 1},
+    "1H": {"list": [{"name": "1H_subplan_1", "subplan": {"PLAN_A": {"list": ["MATH120"], "num": 1}}}, {"name":"1H_subplan_2","subplan": {"PLAN_B": {"list": ["MATH121"], "num": 1}}}, {"name":"1H_subplan_3","subplan": {"PLAN_C": {"list": ["MATH123", "MATH124"], "num": 2}}}],
+               "num": 1},
+    "1I": {"list": ["MATH210", "MATH211", "MATH310", "MATH311", "MATH413", "MATH414"], "num": 2},
+    "1J": {"list": ["MATH221", "MATH280"], "num": 1},
+    "1K": {"list": ["STAT269,", "STAT361", "STAT463"], "num": 3},
+    "1L": {"list": ["STAT252,", "STAT268", "STAT351"], "num": 1},
+    "2A": {"list": ["BIOM300,", "CISC271", "CISC330", "CISC371", "CISC372", "CISC422", "CISC455", "CISC457", "CISC462", "CISC465", "CISC467", "CISC472", "CISC473", "CISC500", "MATH337", "MATH339", "MATH401", "MATH402", "MATH406", "MATH413", "MATH414", "MATH418", "MATH474", "MATH477", "STAT361", "STAT456", "STAT457", "STAT462", "STAT463", "STAT464", "STAT471", "STAT473", "STAT486"], "num": 4}
+}}

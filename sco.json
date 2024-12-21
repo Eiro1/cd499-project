@@ -1,0 +1,38 @@
+{
+  "sco":{
+    "1A": {"list":["CISC121", "CISC124"], "num":2},
+    "1B":{"list":[{
+      "name": "1B_subplan_1",
+      "subplan": {"1D_subplan_1": {"list": ["CISC102","MATH112"], "num": 2}}
+      },
+      {"name": "1B_subplan_2",
+       "subplan": {"1D_subplan_2": {"list": ["CISC102","MATH111"], "num": 2}}
+      },
+      {
+        "name": "1B_subplan_3",
+        "subplan": {"1D_subplan_3": {"list": ["MATH110"], "num": 1}}
+      }],"num":1},
+    "1C": {"list":["COGS100"], "num":1},
+    "1D": {"list":["COGS201"], "num":1},
+    "1E": {"list":["CISC203", "CISC204","CISC221","CISC235"], "num":4},
+    "1F": {"list":["STAT263", "STAT268","STAT 351","BIOL243","CHEE209","COMM162","ECON250","GPHY247","KNPE251","NURS323","POLS285","PSYC202","SOCY211","STAM200","STAT263"], "num":1},
+    "1G": {"list":["CISC360"], "num":1},
+    "1H": {"list":["CISC352","COGS400","CISC351","CISC371","CISC372","CISC451","CISC452","CISC453","CISC455","CISC467","CISC473","CISC474"], "num":3},
+    "1I": {"list":["CISC497"], "num":1},
+    "1J": {"list":["CISC495", "CISC499","CISC500"], "num":1},
+    "2A": {"list":[{
+      "name": "Linguistics",
+      "subplan": {"a": {"list": ["LING100"], "num": 1}, "b":{"list": ["LING310","LING320","LING33"], "num": 1}, "c":{"list": ["LING340"], "num": 1},"d": {"list": ["LING415"], "num": 1}}
+      },
+      {"name": "Philosophy",
+       "subplan": {"a": {"list": ["PHIL111","PHIL115"], "num": 2}, "b": {"list": ["PHIL250"],"num": 1}, "c": {"list": ["PHIL261","PHIL270","PHIL311","PHIL351","PHIL359","PHIL381"],"num": 1}}
+      },
+      {"name": "Psychology",
+       "subplan": {"a": {"list": ["PSYC100"], "num": 1}, "b": {"list": ["PSYC221"],"num": 1}, "c": {"list": ["PSYC203","PSYC271"],"num": 1} , "d":{"list":["COGS_Psychology at the 300-level or above"],"num": 1}}
+      }
+    ], "num":2},
+    "2B": {"list":["CISC220","CISC223","CISC226","CISC271","CISC325","CISC332","CISC340","CISC365","CISC425","CISC454","CISC457","CISC465","CISC486","CISC496","CISC500","COGS300"], "num":3},
+    "2C": {"list":["CISC220","CISC223","CISC226","CISC271","CISC325","CISC332","CISC340","CISC365","CISC425","CISC454","CISC457","CISC465","CISC486","CISC496","CISC500","COGS300",
+    "LING 100","LING310","LING320","LING330","LING340","LING415","PHIL111","PHIL115","PHIL250","PHIL261","PHIL270","PHIL311","PHIL351","PHIL359","PHIL381","PHIL451","PHIL452","PHIL464",
+    "PSYC100","PSYC203","PSYC251","PSYC271","PSYC305","PSYC320","PSYC321","PSYC323","PSYC350","PSYC352","PSYC353","PSYC355","PSYC365","PSYC370","PSYC420","PSYC422","PSYC423","PSYC442","PSYC452"], "num":2}
+  }}

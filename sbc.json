@@ -1,0 +1,40 @@
+{
+  "sbc":{
+    "1A": {"list":["CISC121", "CISC124"], "num":2},
+    "1B": {"list":["BIOL102", "BIOL103"],"num":2},
+    "1C":{"list":["CHEM112"],"num":1},
+    "1D":{"list":[{
+      "name": "1D_subplan_1",
+      "subplan": {"1D_subplan_1": {"list": ["CISC102","MATH112"], "num": 2}}
+      },
+      {"name": "1D_subplan_2",
+       "subplan": {"1D_subplan_2": {"list": ["CISC102","MATH111"], "num": 2}}
+      },
+      {
+        "name": "1D_subplan_3",
+        "subplan": {"1D_subplan_3": {"list": ["MATH110"], "num": 1}}
+      }],"num":1},
+    "1E":{"list":[{
+      "name": "1E_subplan_1",
+      "subplan": {"1E_subplan_1": {"list": ["MATH120"], "num": 1}}
+      },
+      {"name": "1E_subplan_2",
+       "subplan": {"1E_subplan_2": {"list": ["MATH121"], "num": 1}}
+      },
+      {
+        "name": "1E_subplan_3",
+        "subplan": {"1E_subplan_3": {"list": ["MATH123","MATH124"], "num": 2}}
+      }],"num":1},
+    "1F": {"list":["STAT263", "STAT268","STAT 351","BIOL243","CHEE209","COMM162","ECON250","GPHY247","KNPE251","NURS323","POLS285","PSYC202","SOCY211","STAM200","STAT263"], "num":1},
+    "1G": {"list":["CISC203", "CISC204","CISC221","CISC223","CISC235","CISC271"], "num":6},
+    "1H": {"list":["BIOL205"], "num":1},
+    "1I": {"list":["BCHM218"], "num":1},
+    "1J": {"list":["CISC330","CISC352","CISC360","CISC365"], "num":4},
+    "1K": {"list":["BCHM315", "BIOL334"], "num":1},
+    "1L": {"list":["BIOL331"], "num":1},
+    "1M": {"list":["CISC320", "CISC332","CISC471","CISC472"], "num":3},
+    "1N": {"list":["CISC497"], "num":1},
+    "1O": {"list":["CISC495", "CISC499","CISC500"], "num":1},
+    "2A": {"list":["CHEM281", "CHEM282","CHEM285","PHGY215","PHGY216","(ANAT; BIOL; BCHM; CANC; CISC; CISC_Subs; CRSS; DDHT; EPID; LISC; MBIO; MICR; PATH; PHAR; PHGY) at the 300-level or above"], "num":4}
+  }
+}

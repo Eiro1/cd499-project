@@ -1,0 +1,2529 @@
+{
+  "courses": [
+    {
+      "name": "WRIT125",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=WRIT%20125",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "WRIT175",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=WRIT%20175",
+      "pre": "WRIT125",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT456",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20456",
+      "pre": "STAT463",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT462",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20462",
+      "pre": "STAT361, STAT362",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT463",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20463",
+      "pre": "STAT269",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT464",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20464",
+      "pre": "STAT361",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT471",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20471",
+      "pre": "STAT361, STAT 463",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT473",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20473",
+      "pre": "STAT361, STAT 463",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT486",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20486",
+      "pre": "STAT361, STAT 463",
+      "exclusion": ""
+    },
+    {
+      "name": "STAT351",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20351",
+      "pre": "MATH221",
+      "exclusion": "STAT252, STAT268"
+    },
+    {
+      "name": "STAT361",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20361",
+      "pre": "MATH110, STAT252, STAT263",
+      "exclusion": "ECON351"
+    },
+    {
+      "name": "STAT252",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20252",
+      "pre": "MATH120",
+      "exclusion": "STAT351, STAT268"
+    },
+    {
+      "name": "STAT263",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20263",
+      "pre": "",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, KNPE251, NURS323, POLS285, PSYC202, SOCY211, STAM200"
+    },
+    {
+      "name": "STAT268",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20268",
+      "pre": "MATH120",
+      "exclusion": "STAT351, STAT252"
+    },
+    {
+      "name": "STAT269",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAT%20269",
+      "pre": "MATH221, STAT 252"
+    },
+    {
+      "name": "STAM200",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=STAM%20200",
+      "pre": "",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, KNPE251, NURS323, POLS285, PSYC202, SOCY211, STAT263"
+    },
+    {
+      "name": "SOFT437",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=SOFT%20437",
+      "pre": "CISC324",
+      "exclusion": ""
+    },
+    {
+      "name": "SOFT423",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=SOFT%20423",
+      "pre": "CMPE223",
+      "exclusion": "CISC423"
+    },
+    {
+      "name": "SOCY211",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=SOCY%20211",
+      "pre": "SOCY122",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, KNPE251, NURS323, POLS285, PSYC202, STAT263, STAM200"
+    },
+    {
+      "name": "PSYC202",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=PSYC%20202",
+      "pre": "PSYC100",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, KNPE251, NURS323, POLS285, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "POLS285",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=POLS%20285",
+      "pre": "POLS110",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, KNPE251, NURS323, PSYC202, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "PHIL259",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=PHIL%20259",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "NURS323",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=NURS%20323",
+      "pre": "",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, KNPE251, POLS285, PSYC202, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "MUSC491",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20491",
+      "pre": "",
+      "exclusion": "MUSC470"
+    },
+    {
+      "name": "MUSC490",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20490",
+      "pre": "",
+      "exclusion": "MUSC475"
+    },
+    {
+      "name": "MUSC486",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20486",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC481",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20481",
+      "pre": "MUSC293, MUSC203",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC480",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20480",
+      "pre": "MUSC293, MUSC203",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC477",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20477",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC475",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20475",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC476",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20476",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC471",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20471",
+      "pre": "MUSC271",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC470",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20470",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC455",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20455",
+      "pre": "MUSC352",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC454",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20454",
+      "pre": "MUSC351",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC446",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20446",
+      "pre": "MUSC392",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC451",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20451",
+      "pre": "MUSC351",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC445",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20445",
+      "pre": "MUSC392",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC443",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20443",
+      "pre": "MUSC293",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC438",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20438",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC425",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20425",
+      "pre": "MUSC320, MUSC325",
+      "exclusion": "MUSC421, MUSC424"
+    },
+    {
+      "name": "MUSC424",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20424",
+      "pre": "MUSC324",
+      "exclusion": "MUSC421, MUSC425, MUSC420"
+    },
+    {
+      "name": "MUSC423",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20423",
+      "pre": "MUSC422",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC422",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20422",
+      "pre": "MUSC324",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC421",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20421",
+      "pre": "MUSC320",
+      "exclusion": "MUSC424, MUSC425, MUSC420"
+    },
+    {
+      "name": "MUSC420",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20420",
+      "pre": "MUSC320, MUSC325",
+      "exclusion": "MUSC421, MUSC424"
+    },
+    {
+      "name": "MUSC415",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20415",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC412",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20412",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC400",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20400",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC399",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20399",
+      "pre": "MUSC293",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC398",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20398",
+      "pre": "MUSC293",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC397",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20397",
+      "pre": "MUSC191",
+      "exclusion": "MUSC475"
+    },
+    {
+      "name": "MUSC396",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20396",
+      "pre": "MUSC191",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC395",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20395",
+      "pre": "",
+      "exclusion": "DRAM395, FILM395, FILM395, MUTH395, MUTH396"
+    },
+    {
+      "name": "MUSC394",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20394",
+      "pre": "MUSC293",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC393",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20393",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC392",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20392",
+      "pre": "MUSC293",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC388",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20388",
+      "pre": "MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC381",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20381",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC380",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20380",
+      "pre": "MUSC191, MUSC210, MUSC203",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC370",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20370",
+      "pre": "MUSC270",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC358",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20358",
+      "pre": "MUSC293",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC355",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20355",
+      "pre": "MUSC255",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC354",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20354",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC352",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20352",
+      "pre": "MUSC255",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC351",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20351",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC348",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20348",
+      "pre": "MUSC188",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC338",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20338",
+      "pre": "MUSC188, MUSC180",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC335",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20335",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC334",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20334",
+      "pre": "MUSC274",
+      "exclusion": "MUSC332, MUSC336"
+    },
+    {
+      "name": "MUSC329",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20329",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC328",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20328",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC326",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20326",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC325",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20325",
+      "pre": "MUSC220, MUSC225",
+      "exclusion": "MUSC321, MUSC324"
+    },
+    {
+      "name": "MUSC324",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20324",
+      "pre": "MUSC224",
+      "exclusion": "MUSC321, MUSC325, MUSC320"
+    },
+    {
+      "name": "MUSC323",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20323",
+      "pre": "MUSC322",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC322",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20322",
+      "pre": "MUSC223",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC321",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20321",
+      "pre": "MUSC220",
+      "exclusion": "MUSC324, MUSC325, MUSC320"
+    },
+    {
+      "name": "MUSC320",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20320",
+      "pre": "MUSC220, MUSC225",
+      "exclusion": "MUSC324, MUSC321"
+    },
+    {
+      "name": "MUSC315",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20315",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC312",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20312",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC303",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20303",
+      "pre": "MUSC103",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC300",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20300",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC293",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20293",
+      "pre": "MUSC292",
+      "exclusion": "MUSC291"
+    },
+    {
+      "name": "MUSC292",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20292",
+      "pre": "MUSC191",
+      "exclusion": "MUSC291, MUSC293"
+    },
+    {
+      "name": "MUSC289",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20289",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC288",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20288",
+      "pre": "MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC287",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20287",
+      "pre": "MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC286",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20286",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC285",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20285",
+      "pre": "MUSC104",
+      "exclusion": "MUSC185"
+    },
+    {
+      "name": "MUSC283",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20283",
+      "pre": "MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC282",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20282",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC281",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20281",
+      "pre": "MUSC104",
+      "exclusion": "MUSC181"
+    },
+    {
+      "name": "MUSC280",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20280",
+      "pre": "",
+      "exclusion": "MUSC180"
+    },
+    {
+      "name": "MUSC274",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20274",
+      "pre": "MUSC114",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC273",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20273",
+      "pre": "MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC271",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20271",
+      "pre": "",
+      "exclusion": "MUSC245"
+    },
+    {
+      "name": "MUSC270",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20270",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC258",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20258",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC257",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20257",
+      "pre": "MUSC156",
+      "exclusion": "MUSC157"
+    },
+    {
+      "name": "MUSC255",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20255",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC253",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20253",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC247",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20247",
+      "pre": "",
+      "exclusion": "DRAM247, MUTH247"
+    },
+    {
+      "name": "MUSC245",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20245",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC241",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20241",
+      "pre": "MUTH110",
+      "exclusion": "MUSC245"
+    },
+    {
+      "name": "MUSC240",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20240",
+      "pre": "",
+      "exclusion": "MUSC245"
+    },
+    {
+      "name": "MUSC229",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20229",
+      "pre": "MUSC129",
+      "exclusion": "MUSC228"
+    },
+    {
+      "name": "MUSC227",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20227",
+      "pre": "MUSC127",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC225",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20225",
+      "pre": "MUSC120, MUSC125",
+      "exclusion": "MUSC221, MUSC224"
+    },
+    {
+      "name": "MUSC224",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20224",
+      "pre": "MUSC124",
+      "exclusion": "MUSC221, MUSC225, MUSC 220"
+    },
+    {
+      "name": "MUSC223",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20223",
+      "pre": "MUSC222",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC222",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20222",
+      "pre": "MUSC123",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC221",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20221",
+      "pre": "MUSC121",
+      "exclusion": "MUSC224, MUSC225, MUSC 220"
+    },
+    {
+      "name": "MUSC220",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20220",
+      "pre": "MUSC120, MUSC125",
+      "exclusion": "MUSC221, MUSC224"
+    },
+    {
+      "name": "MUSC215",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20215",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC212",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20212",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC200",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20200",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC211",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20211",
+      "pre": "MUTH111, MUSC104",
+      "exclusion": "MUSC102"
+    },
+    {
+      "name": "MUSC210",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20210",
+      "pre": "MUTH110, MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC255",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20255",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUTH111",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUTH%20111",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUTH110",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUTH%20110",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC191",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20191",
+      "pre": "MUSC104",
+      "exclusion": "MUSC192, MUSC193"
+    },
+    {
+      "name": "MUSC156",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20156",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC105",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20105",
+      "pre": "MUSC104",
+      "exclusion": ""
+    },
+    {
+      "name": "MUSC104",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MUSC%20104",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH477",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20477",
+      "pre": "MATH474",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH473",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20473",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH434",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20434",
+      "pre": "MATH110",
+      "exclusion": "MATH281"
+    },
+    {
+      "name": "MATH418",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20418",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH414",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20414",
+      "pre": "MATH310",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH413",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20413",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH406",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20406",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH402",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20402",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH401",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20401",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH339",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20339",
+      "pre": "MATH120, MATH110",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH311",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20311",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH310",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20310",
+      "pre": "MATH210",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH337",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20337",
+      "pre": "MATH120, MATH231",
+      "exclusion": ""
+    },
+    {
+      "name": "MATH280",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20280",
+      "pre": "MATH120, MATH110",
+      "exclusion": "MATH221"
+    },
+    {
+      "name": "MATH221",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20221",
+      "pre": "MATH120",
+      "exclusion": "MATH280"
+    },
+    {
+      "name": "MATH211",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20211",
+      "pre": "MATH120, MATH110",
+      "exclusion": "MATH210"
+    },
+    {
+      "name": "MATH210",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20210",
+      "pre": "MATH110",
+      "exclusion": "MATH211"
+    },
+    {
+      "name": "MATH272",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20272",
+      "pre": "MATH110, CISC121",
+      "exclusion": "CISC271, PHYS213"
+    },
+    {
+      "name": "MATH124",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20124",
+      "pre": "MATH123",
+      "exclusion": "MATH120, MATH121, MATH126"
+    },
+    {
+      "name": "MATH123",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20123",
+      "pre": "",
+      "exclusion": "MATH120, MATH130"
+    },
+    {
+      "name": "MATH121",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20121",
+      "pre": "",
+      "exclusion": "MATH120, MATH123, MATH124, MATH126, MATH130"
+    },
+    {
+      "name": "MATH120",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20120",
+      "pre": "",
+      "exclusion": "MATH121, MATH123, MATH124, MATH126"
+    },
+    {
+      "name": "MATH112",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20112",
+      "pre": "",
+      "exclusion": "MATH110, MATH111"
+    },
+    {
+      "name": "MATH111",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20111",
+      "pre": "",
+      "exclusion": "MATH110, MATH112"
+    },
+    {
+      "name": "MATH110",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MATH%20110",
+      "pre": "",
+      "exclusion": "MATH111, MATH112,MATH212"
+    },
+    {
+      "name": "MAPP311",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=MAPP%20311",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "KNPE251",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=KNPE%20251",
+      "pre": "",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, GPHY247, POLS110, NURS323, PSYC202, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "IDIS410",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=IDIS%20410",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "LLCU244",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=LLCU%20244",
+      "pre": "",
+      "exclusion": "LLCU495"
+    },
+    {
+      "name": "GPHY247",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=GPHY%20247",
+      "pre": "GPHY101",
+      "exclusion": "BIOL243, CHEE209, COMM162, ECON250, KNPE251, POLS110, NURS323, PSYC202, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "GNDS410",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=GNDS%20410",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM459",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20459",
+      "pre": "",
+      "exclusion": "FILM457, FILM458"
+    },
+    {
+      "name": "FILM458",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20458",
+      "pre": "FILM457",
+      "exclusion": "FILM459"
+    },
+    {
+      "name": "FILM457",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20457",
+      "pre": "FILM250",
+      "exclusion": "FILM459"
+    },
+    {
+      "name": "FILM445",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20445",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM440",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20440",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM425",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20425",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM400",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20400",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM388",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20388",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM336",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20336",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM331",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20331",
+      "pre": "GNDS120",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM324",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20324",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM313",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20313",
+      "pre": "FILM206",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM306",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20306",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM250",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20250",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM260",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20260",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM257",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20257",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM240",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20240",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM236",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20236",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM226",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20226",
+      "pre": "FILM110",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM218",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20218",
+      "pre": "FILM110",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM217",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20217",
+      "pre": "FILM110",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM216",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20216",
+      "pre": "FILM110",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM207",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20207",
+      "pre": "FILM110",
+      "exclusion": "FILM206"
+    },
+    {
+      "name": "FILM206",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20206",
+      "pre": "FILM110",
+      "exclusion": "FILM207"
+    },
+    {
+      "name": "FILM110",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20110",
+      "pre": "",
+      "exclusion": "FILM111, FILM112"
+    },
+    {
+      "name": "FILM106",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20106",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "FILM104",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=FILM%20104",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ELEC474",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ELEC%20474",
+      "pre": "ELEC278",
+      "exclusion": "CMPE457"
+    },
+    {
+      "name": "ELEC470",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ELEC%20470",
+      "pre": "ELEC371, ELEC274",
+      "exclusion": ""
+    },
+    {
+      "name": "ECON250",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ECON%20250",
+      "pre": "ECON 110",
+      "exclusion": "BIOL243, CHEE209, COMM162, GPHY247, KNPE251, POLS110, NURS323, PSYC202, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "DRAM476",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20476",
+      "pre": "DRAM300",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM448",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20448",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM439",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20439",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM431",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20431",
+      "pre": "DRAM331",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM422",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20422",
+      "pre": "DRAM323",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM419",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20419",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM400",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20400",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM395",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20395",
+      "pre": "",
+      "exclusion": "FILM395, MAPP395, MUSC395, MUTH395, MUTH396"
+    },
+    {
+      "name": "DRAM375",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20375",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM373",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20373",
+      "pre": "DRAM331",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM371",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20371",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM351",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20351",
+      "pre": "",
+      "exclusion": "DRAM350"
+    },
+    {
+      "name": "DRAM350",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20350",
+      "pre": "DRAM251",
+      "exclusion": "DRAM351"
+    },
+    {
+      "name": "DRAM346",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20346",
+      "pre": "DRAM240",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM345",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20345",
+      "pre": "DRAM242, DRAM246",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM344",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20344",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM342",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20342",
+      "pre": "DRAM241",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM339",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20339",
+      "pre": "DRAM237, DRAM238, DRAM239",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM335",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20335",
+      "pre": "DRAM237, DRAM238, DRAM239",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM332",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20332",
+      "pre": "DRAM237, DRAM238",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM331",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20331",
+      "pre": "DRAM237",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM330",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20330",
+      "pre": "DRAM237",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM323",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20323",
+      "pre": "DRAM321",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM321",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20321",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM319",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20319",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM311",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20311",
+      "pre": "DRAM211",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM310",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20310",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM306",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20306",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM303",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20303",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM300",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20300",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM301",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20301",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM247",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20247",
+      "pre": "",
+      "exclusion": "MUSC247, MUTH247"
+    },
+    {
+      "name": "DRAM242",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20242",
+      "pre": "DRAM240",
+      "exclusion": "DRAM242"
+    },
+    {
+      "name": "DRAM241",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20241",
+      "pre": "DRAM240",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM240",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20240",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "DRAM200",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20200",
+      "pre": "",
+      "exclusion": "DRAM200, DRAM201, DRAM202, DRAM210"
+    },
+    {
+      "name": "DRAM220",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20220",
+      "pre": "",
+      "exclusion": "DRAM201, DRAM202"
+    },
+    {
+      "name": "DRAM100",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=DRAM%20100",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "COMM365",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COMM%20365",
+      "pre": "COMM162, COMM163",
+      "exclusion": ""
+    },
+    {
+      "name": "COMM251",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COMM%20251",
+      "pre": "",
+      "exclusion": "COMM251, EMPR270"
+    },
+    {
+      "name": "COMM200",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COMM%20200",
+      "pre": "",
+      "exclusion": "COMM101, COMM200, COMM201"
+    },
+    {
+      "name": "COMM162",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COMM%20162",
+      "pre": "",
+      "exclusion": "COMM162, ECON250, PSYC202, STAT263"
+    },
+    {
+      "name": "COGS499",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COGS%20499",
+      "pre": "",
+      "exclusion": "CISC495, CISC496, CISC499, CISC500, COGS499, CISC498"
+    },
+    {
+      "name": "COGS400",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COGS%20400",
+      "pre": "CISC235",
+      "exclusion": "CISC452"
+    },
+    {
+      "name": "COGS300",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COGS%20300",
+      "pre": "COGS201, PSYC202",
+      "exclusion": ""
+    },
+    {
+      "name": "COCA201",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=COCA%20201",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC500",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20500",
+      "pre": "",
+      "exclusion": " CISC495, CISC496, CISC499, COGS499"
+    },
+    {
+      "name": "CISC499",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20499",
+      "pre": "",
+      "exclusion": " CISC495, CISC496, CISC499, CISC500, CISC498"
+    },
+    {
+      "name": "CISC498",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20498",
+      "pre": "",
+      "exclusion": " CISC495, CISC496, CISC499, COGS499"
+    },
+    {
+      "name": "CISC497",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20497",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC496",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20496",
+      "pre": "",
+      "exclusion": " CISC495, COGS499, CISC499, CISC500, CISC498"
+    },
+    {
+      "name": "CISC495",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20495",
+      "pre": "",
+      "exclusion": " CISC496, COGS499, CISC499, CISC500, CISC498"
+    },
+    {
+      "name": "CISC492",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20492",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC491",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20491",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC490",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20490",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC486",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20486",
+      "pre": "CISC226, CISC322, CISC324, MATH110",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC474",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20474",
+      "pre": "CISC352",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC473",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20473",
+      "pre": "CISC371",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC472",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20472",
+      "pre": "CISC330",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC471",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20471",
+      "pre": "CISC352, CISC365",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC468",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20468",
+      "pre": "CISC235, CISC335",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC467",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20467",
+      "pre": "CISC204",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC466",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20466",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC465",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20465",
+      "pre": "CISC204, CISC223, CISC360",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC462",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20462",
+      "pre": "CISC223",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC458",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20458",
+      "pre": "CISC121, CISC221, CISC223",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC457",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20457",
+      "pre": "MATH110, MATH120, CISC124",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC455",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20455",
+      "pre": "CISC365, STAT263",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC454",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20454",
+      "pre": "CISC235, MATH110",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC453",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20453",
+      "pre": "CISC352",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC452",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20452",
+      "pre": "CISC235",
+      "exclusion": "COGS400"
+    },
+    {
+      "name": "CISC451",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20451",
+      "pre": "CISC351",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC448",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20448",
+      "pre": "CISC327",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC447",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20447",
+      "pre": "CISC324, CISC335",
+      "exclusion": "CISC490"
+    },
+    {
+      "name": "CISC437",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20437",
+      "pre": "CISC324, CISC327",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC434",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20434",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC432",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20432",
+      "pre": "CISC324",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC426",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20426",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC425",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20425",
+      "pre": "CISC325",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC423",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20423",
+      "pre": "CISC223, CISC235",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC422",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20422",
+      "pre": "CISC223",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC372",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20372",
+      "pre": "CISC271",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC371",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20371",
+      "pre": "CISC271, STAT263",
+      "exclusion": "CISC351"
+    },
+    {
+      "name": "CISC365",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20365",
+      "pre": "CISC203, CISC204, CISC235",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC360",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20360",
+      "pre": "CISC124, CISC204",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC352",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20352",
+      "pre": "CISC235",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC351",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20351",
+      "pre": "CISC251",
+      "exclusion": "CISC371, CISC372"
+    },
+    {
+      "name": "CISC340",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20340",
+      "pre": "CISC221",
+      "exclusion": "ELEC373"
+    },
+    {
+      "name": "CISC335",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20335",
+      "pre": "CISC324",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC332",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20332",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC330",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20330",
+      "pre": "CISC102, CISC124",
+      "exclusion": "COMM392"
+    },
+    {
+      "name": "CISC327",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20327",
+      "pre": "CISC220, CISC124",
+      "exclusion": "SOFT327"
+    },
+    {
+      "name": "CISC326",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20326",
+      "pre": "CISC223, CISC235",
+      "exclusion": "CISC322"
+    },
+    {
+      "name": "CISC325",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20325",
+      "pre": "CISC124, CISC235",
+      "exclusion": "CMPE325"
+    },
+    {
+      "name": "CISC324",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20324",
+      "pre": "CISC221, CISC235",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC322",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20322",
+      "pre": "CISC223, CISC235",
+      "exclusion": "CISC326"
+    },
+    {
+      "name": "CISC320",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20320",
+      "pre": "CISC235",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC282",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20282",
+      "pre": "CISC124",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC271",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20271",
+      "pre": "CISC121, MATH110, MATH120, MATH124",
+      "exclusion": "MATH272"
+    },
+    {
+      "name": "CISC251",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20251",
+      "pre": "",
+      "exclusion": "CMPE333"
+    },
+    {
+      "name": "CISC235",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20235",
+      "pre": "CISC124, CISC203",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC226",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20226",
+      "pre": "CISC124",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC223",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20223",
+      "pre": "CISC124, CISC204",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC221",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20221",
+      "pre": "CISC124",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC220",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20220",
+      "pre": "CISC121",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC204",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20204",
+      "pre": "CISC121, MATH110",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC203",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20203",
+      "pre": "CISC121, MATH110",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC181",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20181",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC151",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20151",
+      "pre": "",
+      "exclusion": "APSC142, APSC143, CISC101, CISC110"
+    },
+    {
+      "name": "CISC124",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20124",
+      "pre": "CISC121",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC121",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20121",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC110",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20110",
+      "pre": "",
+      "exclusion": "APSC142, APSC143, CISC101, CISC151"
+    },
+    {
+      "name": "CISC102",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20102",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "CISC101",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CISC%20101",
+      "pre": "",
+      "exclusion": "APSC142, APSC143, CISC110, CISC151"
+    },
+    {
+      "name": "CHEE209",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CHEE%20209",
+      "pre": "APSC171, APSC172, APSC174",
+      "exclusion": "STAT268, STAT269, MTHE367"
+    },
+    {
+      "name": "CHEM112",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=CHEM%20112",
+      "pre": "",
+      "exclusion": "CHEM113, CHEM114"
+    },
+    {
+      "name": "ANIM200",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ANIM%20200",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ANIM400",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ANIM%20400",
+      "pre": "ANIM200",
+      "exclusion": ""
+    },
+    {
+      "name": "APSC221",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=APSC%20221",
+      "pre": "",
+      "exclusion": "APSC321, COMM244"
+    },
+    {
+      "name": "ARTH101",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20101",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH116",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20116",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH117",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20117",
+      "pre": "",
+      "exclusion": "ARTH116, ARTH120"
+    },
+    {
+      "name": "ARTH120",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20120",
+      "pre": "",
+      "exclusion": "ARTH116, ARTH117"
+    },
+    {
+      "name": "ARTH202",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20202",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH203",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20203",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH208",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20208",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH210",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20210",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH212",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20212",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH214",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20214",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH215",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20215",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH220",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20220",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH222",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20222",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH223",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20223",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH225",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20225",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH226",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20226",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH226",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20226",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH228",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20228",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH232",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20232",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH234",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20234",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH242",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20242",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH245",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20245",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH248",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20248",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH250",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20250",
+      "pre": "",
+      "exclusion": "ARTH223"
+    },
+    {
+      "name": "ARTH253",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20253",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH260",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20260",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH265",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20265",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH272",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20272",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH275",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20275",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH277",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20277",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH288",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20288",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH292",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20292",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH293",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20293",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH299",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20299",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH301",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20301",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH303",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20303",
+      "pre": "",
+      "exclusion": "ARTH305"
+    },
+    {
+      "name": "ARTH304",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20304",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH305",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20305",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH306",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20306",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH307",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20307",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH308",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20308",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH310",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20310",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH311",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20311",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH312",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20312",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH316",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20316",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH319",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20319",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH321",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20321",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH325",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20325",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH336",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20336",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH339",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20339",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH340",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20340",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH341",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20341",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH342",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20342",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH345",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20345",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH346",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20346",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH347",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20347",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH348",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20348",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH350",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20350",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH352",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20352",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH353",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20353",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH354",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20354",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH369",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20369",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH370",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20370",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH372",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20372",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH373",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20373",
+      "pre": "",
+      "exclusion": "ARTH375"
+    },
+    {
+      "name": "ARTH374",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20374",
+      "pre": "",
+      "exclusion": "ARTH375"
+    },
+    {
+      "name": "ARTH378",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20378",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH380",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20380",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH383",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20383",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH390",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20390",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH391",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20391",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH395",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20395",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH399",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20399",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH401",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20401",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH402",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20402",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH403",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20403",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH404",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20404",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH405",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20405",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH410",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20410",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH412",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20412",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH415",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20415",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH419",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20419",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH420",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20420",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH421",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20421",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH422",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20422",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH425",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20425",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH429",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20429",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH433",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20433",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH434",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20434",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH435",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20435",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH436",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20436",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH438",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20438",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH442",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20442",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH446",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20446",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH451",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20451",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH460",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20460",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH472",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20472",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH482",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20482",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH485",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20485",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH486",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20486",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH490",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20490",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH492",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20492",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH494",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20494",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "ARTH496",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=ARTH%20496",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "BADR100",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BADR%20100",
+      "pre": "",
+      "exclusion": "FILM106, GPHY101"
+    },
+    {
+      "name": "BADR101",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BADR%20101",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "BADR200",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BADR%20200",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "BIOL102",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BIOL%20102",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "BIOL103",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BIOL%20103",
+      "pre": "",
+      "exclusion": ""
+    },
+    {
+      "name": "BIOL243",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BIOL%20243",
+      "pre": "",
+      "exclusion": "ECON250, CHEE209, COMM162, GPHY247, KNPE251, POLS110, NURS323, PSYC202, SOCY211, STAT263, STAM200"
+    },
+    {
+      "name": "BIOL205",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BIOL%20205",
+      "pre": "",
+      "exclusion": "BIOL102, BIOL103"
+    },
+    {
+      "name": "BIOL331",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BIOL%20331",
+      "pre": "BIOL205, BCHM218",
+      "exclusion": "BCHM370"
+    },
+    {
+      "name": "BCHM218",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BCHM%20218",
+      "pre": "BIOL102, CHEM112",
+      "exclusion": ""
+    },
+    {
+      "name": "BCHM315",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BCHM%20315",
+      "pre": "BCHM218, CHEM282",
+      "exclusion": "BCHM102, BCHM310"
+    },
+    {
+      "name": "BIOM300",
+      "url": "https://www.queensu.ca/academic-calendar/search/?P=BIOM%20300",
+      "pre": "MATH120, MATH110",
+      "exclusion": ""
+    }
+  ]
+}

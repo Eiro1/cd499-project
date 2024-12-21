@@ -1,0 +1,48 @@
+{"scs":{
+    "1A": {"list": ["CISC121", "CISC124"], "num": 2},
+    "1B": {"list": [{"name": "1B_subplan_1", "subplan": {"PLAN_A": {"list": ["CISC102", "MATH111"], "num": 2}}},{"name": "1B_subplan_2", "subplan": {"PLAN_A": {"list": ["CISC102", "MATH112"], "num": 2}}},{"name": "1B_subplan_3", "subplan": {"PLAN_B": {"list": ["MATH110"], "num": 1}}}],
+               "num": 1},
+    "1C": {"list": [{"name": "1C_subplan_1", "subplan": {"PLAN_A": {"list": ["MATH120"], "num": 1}}}, {"name":"1C_subplan_2","subplan": {"PLAN_B": {"list": ["MATH121"], "num": 1}}}, {"name":"1C_subplan_3","subplan": {"PLAN_C": {"list": ["MATH123", "MATH124"], "num": 2}}}],
+               "num": 1},
+    "1D": {"list":["STAT263", "STAT268","STAT 351","BIOL243","CHEE209","COMM162","ECON250","GPHY247","KNPE251","NURS323","POLS285","PSYC202","SOCY211","STAM200","STAT263"], "num":1},
+    "1E": {"list":["CISC203", "CISC204","CISC221","CISC223","CISC235"], "num":5},
+    "1F": {"list": ["CISC322", "CISC326"], "num": 1},
+    "1G": {"list": ["CISC324", "CISC360", "CISC365"], "num": 3},
+    "1H": {"list": ["CISC497"], "num": 1},
+    "1I": {"list": ["CISC495", "CISC496","CISC499", "CISC500"], "num": 1},
+    "2A": {"list":[
+      {"name": "Fundamental Computation (FUNC-O)",
+        "subplan": {
+            "a":{"list": ["CISC422","CISC455","CISC462","CISC465","CISC467"], "num": 1},
+            "b":{"list": ["CISC & CISC_Subs & SOFT (400) (3 units)"], "num": 1},
+            "c":{"list": ["CISC (>300) & CISC_Subs (>300) & SOFT (>300) (6 units)"], "num": 1},
+            "d":{"list": ["CISC (>300)  & CISC_Subs (>300) & SOFT (>300)(6units)"], "num": 1}
+        }},
+      {"name": "Biomedical Computation (BICO-O)",
+        "subplan": {
+            "a":{"list": ["CISC271","CISC330","CISC352","CISC472"], "num": 4},
+            "b":{"list": ["CISC320","CISC471"], "num": 1}
+        }},
+      {"name": "Data Analytics (DAAN-O)",
+        "subplan": {
+            "a":{"list": ["CISC271","CISC371","CISC372","CISC451","CISC452"], "num": 5}
+        }},
+      {"name": "Artificial Intelligence (ARIN-O)",
+        "subplan": {
+            "a":{"list": ["COGS100","COGS201","CISC352"], "num": 3},
+            "b":{"list": ["CISC351","CISC371","CISC372","CISC451","CISC452","CISC453","CISC455","CISC467","CISC473","CISC474"], "num": 2}
+        }},
+      {"name": "Game Development (GADE-O)",
+        "subplan": {
+            "a":{"list": ["CISC226","CISC320","CISC352","CISC454","CISC486"], "num": 5}
+        }},
+      {"name": "Security (SECU-O)",
+        "subplan": {
+            "a":{"list": ["CISC220","CISC327","CISC335","CISC447"], "num": 4},
+            "b":{"list": ["CISC434","CISC448","CISC468"], "num": 2}
+        }}
+    ], "num":1},
+
+
+    "2B": {"list": ["ASC_Humanities_Languages_Social_Sciences"], "num": 1}
+}}

@@ -1,0 +1,61 @@
+{
+  "sca":{
+    "1A": {"list":["CISC121", "CISC124"], "num":2},
+    "1B": {"list":["CISC102", "MATH110"], "num":1},
+    "1C": {"list":["COCA201"], "num":1},
+    "1D": {"list":["CISC203", "CISC204","CISC223","CISC235"], "num":4},
+    "1E": {"list":["CISC325","CISC352","CISC360","CISC365"], "num":4},
+    "1F": {"list":["CISC at the 400-level&CISC_Subs at the 400-level(3 units)"], "num":1},
+    "1G": {"list":["CISC at the 200-level or above & CISC_Subs at the 200-level or above(6 units)"], "num":1},
+
+    "2A": {"list":[
+      {"name": "Computing and Art (COAR-O)",
+        "subplan": {
+            "a":{"list": [
+              {"name": "a-1","subplan": {"a-1":{"list": ["ARTH116", "ARTH117"],"num": 2} } },
+              {"name": "a-2","subplan": {"a-2":{"list": ["ARTH120"],"num": 1} } }
+            ],"num": 1},
+            "b":{"list": ["ARTH at the 400-level(3 units)"], "num": 1},
+            "c":{"list": ["ARTH at the 300-level or above (12 units)"], "num": 1},
+            "d":{"list": ["ARTH at the 100- or 200-level (18 units)"], "num": 1}
+          }
+      },
+      {"name": "Computing and Film (COFI-O)",
+          "subplan": {
+            "a":{"list": [
+              {"name": "a-1","subplan": {"a-1":{"list": ["FILM104", "BADR100"],"num": 2} } },
+              {"name": "a-2","subplan":{"a-2":{"list": ["FILM104","FILM106"],"num": 2} } },
+              {"name": "a-3","subplan":{"a-2":{"list": ["FILM110"],"num": 1} } }
+            ],"num": 1},
+            "b":{"list": ["ANIM200","FILM206","FILM216","FILM 217","FILM218","FILM226","FILM236","FILM240","FILM257","FILM260"], "num": 4},
+            "c":{"list": ["FILM250"], "num": 1},
+            "2a":{"list": ["ANIM at the 400-level & FILM at the 400-level (6 units)"], "num": 1},
+            "2b":{"list": ["ANIM at the 300-level or above & FILM at the 300-level or above(12 units)"], "num": 1}
+          }
+      },
+      {"name": "Computing and Drama (CODR-O)",
+          "subplan": {
+            "a":{"list": [
+              {"name": "a-1","subplan": {"a-1":{"list": ["BADR100", "BADR101"],"num": 2} } },
+              {"name": "a-2","subplan":{"a-2":{"list": ["DRAM100"],"num": 1} } }
+            ],"num": 1},
+            "b":{"list": ["DRAM200","DRAM220"], "num": 2},
+            "c":{"list": ["DRAM240","DRAM241","DRAM242"], "num": 2},
+            "2a":{"list": ["DRAM at the 300-level or above (12 units)"], "num": 1},
+            "2b":{"list": ["DRAM & DRAM _Subs & ENIN(6units)"], "num": 1}
+          }
+      },
+      {"name": "Computing and Music (COMU-O)",
+          "subplan": {
+            "a":{"list": ["MUSC104","MUSC105"],"num": 1},
+            "b":{"list": ["MUSC156","MUSC255"], "num": 2},
+            "c":{"list": ["MUSC191","MUSC110","MUTH111"], "num": 3},
+            "d":{"list": ["MUSC210","MUSC211"], "num": 1},
+            "2a":{"list": ["MUSC at the 300-level or above(6units)"], "num": 1},
+            "2b":{"list": ["MUSC at the 200-level or above(6units)"], "num": 1},
+            "2c":{"list": ["ENIN & MUSC & MUSC_Subs(3 units)"], "num": 1}
+          }
+      }
+    ], "num":1}
+  }
+}

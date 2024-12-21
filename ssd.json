@@ -1,0 +1,19 @@
+{"ssd":{
+    "1A": {"list": ["CISC121", "CISC124"], "num": 2},
+    "1B": {"list": [{"name": "1B_subplan_1", "subplan": {"PLAN_A": {"list": ["CISC102", "MATH111"], "num": 2}}},{"name": "1B_subplan_2", "subplan": {"PLAN_A": {"list": ["CISC102", "MATH112"], "num": 2}}},{"name": "1B_subplan_3", "subplan": {"PLAN_B": {"list": ["MATH110"], "num": 1}}}],
+               "num": 1},
+    "1C": {"list": [{"name": "1C_subplan_1", "subplan": {"PLAN_A": {"list": ["MATH120"], "num": 1}}}, {"name":"1C_subplan_2","subplan": {"PLAN_B": {"list": ["MATH121"], "num": 1}}}, {"name":"1C_subplan_3","subplan": {"PLAN_C": {"list": ["MATH123", "MATH124"], "num": 2}}}],
+               "num": 1},
+    "1D": {"list":["STAT263", "STAT268","STAT 351","BIOL243","CHEE209","COMM162","ECON250","GPHY247","KNPE251","NURS323","POLS285","PSYC202","SOCY211","STAM200","STAT263"], "num":1},
+    "1E": {"list":["CISC203", "CISC204","CISC221","CISC223","CISC235","CISC220"], "num":6},
+    "1F": {"list": ["CISC324,", "CISC360", "CISC365"], "num": 3},
+    "1G": {"list": ["CISC325,", "CISC327", "CISC422","CISC423","CISC497"], "num": 3},
+    "1H": {"list": ["CISC498"], "num": 1},
+    "2A": {"list": ["CISC322", "CISC326"], "num": 1},
+    "2B": {"list": ["CISC425", "CISC432","CISC434","CISC437","CISC448","CISC452","CISC453","CISC454","CISC458","CISC486","ELEC470"], "num": 1},
+    "2C": {"list": ["CISC226","CISC271","CISC282","CISC320","CISC332","CISC335","CISC340","CISC352","CISC425", "CISC432","CISC434","CISC437","CISC448","CISC452","CISC453","CISC454","CISC458","CISC486","ELEC470"], "num": 2},
+    "2D": {"list": ["PHIL259","WRIT125","WRIT175"], "num": 1},
+    "2E": {"list": ["APSC221","COMM200","COMM251"], "num": 1},
+    "2F": {"list": ["ASC_Humanities_Languages_Social_Sciences (3 units)"], "num": 1},
+    "2G": {"list": [" Any discipline other than APSC, CISC, COCA, COGS, COMP, ELEC, MATH, MTHE, SOFT, STAT (18 units)"], "num": 1}
+}}

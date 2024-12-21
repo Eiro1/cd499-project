@@ -1,0 +1,21 @@
+{"gbc":{
+    "1A": {"list": ["CISC121", "CISC124"], "num": 2},
+    "1B": {"list": ["CISC203", "CISC204", "CISC221", "CISC223", "CISC235", "CISC360"], "num": 6},
+    "2A":{"list":["CISC320", "CISC322", "CISC324", "CISC325", "CISC326", "CISC327", "CISC330", "CISC332", "CISC335", "CISC340", "CISC351", "CISC352", "CISC360", "CISC365", "CISC371", "CISC372", 
+    "CISC422", "CISC423", "CISC425", "CISC426", "CISC432", "CISC434", "CISC437", "CISC447", "CISC448", "CISC451", "CISC452", "CISC453", "CISC454", "CISC455", "CISC457", "CISC456", "CISC457", "CISC458", "CISC462", "CISC465", "CISC466", "CISC467", "CISC468", "CISC471", "CISC472", "CISC473", "CISC474", "CISC486", "CISC490", "CISC498", "CISC499", 
+    "CISC500", 
+    "COMM365", "ELEC470", "MATH337", "MATH401", "MATH402", "MATH434", "MATH474", 
+    "COGS300", "COGS400", "COGS499"], "num":1},
+    "2B": {"list": ["COGS100", 
+    "CISC203", "CISC204", "CISC220", "CISC221", "CISC223", "CISC226", "CISC235", "CISC251", "CISC271", "CISC282", 
+    "CISC320", "CISC322", "CISC324", "CISC325", "CISC326", "CISC327", "CISC330", "CISC332", "CISC335", "CISC340", "CISC351", "CISC352", "CISC360", "CISC365", "CISC371", "CISC372", 
+    "CISC422", "CISC423", "CISC425", "CISC426", "CISC432", "CISC434", "CISC437", "CISC447", "CISC448", "CISC451", "CISC452", "CISC453", "CISC454", "CISC455", "CISC457", "CISC456", "CISC457", "CISC458", "CISC462", "CISC465", "CISC466", "CISC467", "CISC468", "CISC471", "CISC472", "CISC473", "CISC474", "CISC486", "CISC490", "CISC498", "CISC499", 
+    "CISC500", 
+    "COMM365", "ELEC470","MATH272", "MATH337", "MATH401", "MATH402", "MATH434", "MATH474", 
+    "COCA201", 
+    "COGS201", "COGS300", "COGS400", "COGS499"], "num": 3},
+    "3A": {"list": [{"name": "3A_subplan1", "subplan": {"PLAN_A": {"list": ["CISC102", "MATH111"], "num": 2}}}, {"name": "3A_subplan2","subplan": {"PLAN_B": {"list": ["CISC102", "MATH112"], "num": 2}}}, {"name": "3A_subplan3","subplan": {"PLAN_C": {"list": ["MATH110"], "num": 1}}}],
+               "num": 1},
+    "3B": {"list": [{"name": "3B_subplan1", "subplan": {"PLAN_A": {"list": ["MATH120"], "num": 1}}}, {"name": "3B_subplan2","subplan": {"PLAN_B": {"list": ["MATH121"], "num": 1}}}, {"name": "3B_subplan3","subplan": {"PLAN_C": {"list": ["MATH123", "MATH124"], "num": 2}}}],
+               "num": 1}
+  }}
